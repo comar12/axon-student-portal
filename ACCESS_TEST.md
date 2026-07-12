@@ -1,0 +1,1 @@
+GitHub integration write-access test. This file will be replaced by the project upload.
